@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 void main(void){
-	printf("My-image\n");
+	printf("My-image-GIT\n");
 }
